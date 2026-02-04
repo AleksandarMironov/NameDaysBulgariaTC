@@ -31,11 +31,11 @@ We use Google AdMob to display advertisements. AdMob uses the data mentioned abo
 4. GDPR & CCPA Compliance
 If you are a resident of the European Economic Area (EEA) or California, you have specific rights regarding your data:
 
-Opt-Out of Personalized Ads: You can reset your Advertising ID or opt-out of personalized ads via your Android device settings (Settings > Google > Ads).
+- Opt-Out of Personalized Ads: You can reset your Advertising ID or opt-out of personalized ads via your Android device settings (Settings > Google > Ads).
 
-Consent: For users in the EU, we utilize a Consent Management Platform to ask for your permission before serving personalized ads.
+- Consent: For users in the EU, we utilize a Consent Management Platform to ask for your permission before serving personalized ads.
 
-Data Access: Because we do not store personal data on our own servers, requests for access or deletion are generally handled through Google’s services and your Google Account settings. 
+- Data Access: Because we do not store personal data on our own servers, requests for access or deletion are generally handled through Google’s services and your Google Account settings. 
 
 5. Children's Privacy
 Name Days Bulgaria is not directed to children under the age of 16, and we do not knowingly collect personal information from children.
