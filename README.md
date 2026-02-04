@@ -1,2 +1,2 @@
 # NameDaysBulgariaTC
-Terms and Conditions for Name Days Bulgaria Android app
+Privacy Policy for Name Days Bulgaria Android app
